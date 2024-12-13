@@ -1,0 +1,144 @@
+Résumé des statistiques pour J.J. Moser (TBL):
+{
+  "gamesPlayed": 6,
+  "goals": 2,
+  "assists": 4,
+  "points": 6,
+  "plusMinus": 8,
+  "penaltyMinutes": 2,
+  "timeOnIcePerGame": "1268.00",
+  "shootingPercentage": "28.57%",
+  "gameWinningGoals": 0,
+  "powerPlayGoals": 0,
+  "powerPlayPoints": 0,
+  "faceoffWinPercentage": "N/A"
+}
+-----------------------------------
+Résumé des statistiques pour Timo Meier (NJD):
+{
+  "gamesPlayed": 9,
+  "goals": 4,
+  "assists": 5,
+  "points": 9,
+  "plusMinus": 4,
+  "penaltyMinutes": 4,
+  "timeOnIcePerGame": "1035.33",
+  "shootingPercentage": "12.12%",
+  "gameWinningGoals": 0,
+  "powerPlayGoals": 1,
+  "powerPlayPoints": 2,
+  "faceoffWinPercentage": "25.00%"
+}
+-----------------------------------
+Résumé des statistiques pour Roman Josi (NSH):
+{
+  "gamesPlayed": 6,
+  "goals": 0,
+  "assists": 5,
+  "points": 5,
+  "plusMinus": -3,
+  "penaltyMinutes": 0,
+  "timeOnIcePerGame": "1583.00",
+  "shootingPercentage": "0.00%",
+  "gameWinningGoals": 0,
+  "powerPlayGoals": 0,
+  "powerPlayPoints": 3,
+  "faceoffWinPercentage": "N/A"
+}
+-----------------------------------
+Résumé des statistiques pour Nino Niederreiter (WPG):
+{
+  "gamesPlayed": 6,
+  "goals": 2,
+  "assists": 2,
+  "points": 4,
+  "plusMinus": 6,
+  "penaltyMinutes": 2,
+  "timeOnIcePerGame": "910.00",
+  "shootingPercentage": "14.29%",
+  "gameWinningGoals": 0,
+  "powerPlayGoals": 1,
+  "powerPlayPoints": 1,
+  "faceoffWinPercentage": "60.00%"
+}
+-----------------------------------
+Résumé des statistiques pour Jonas Siegenthaler (NJD):
+{
+  "gamesPlayed": 9,
+  "goals": 0,
+  "assists": 1,
+  "points": 1,
+  "plusMinus": 2,
+  "penaltyMinutes": 4,
+  "timeOnIcePerGame": "1328.22",
+  "shootingPercentage": "0.00%",
+  "gameWinningGoals": 0,
+  "powerPlayGoals": 0,
+  "powerPlayPoints": 0,
+  "faceoffWinPercentage": "N/A"
+}
+-----------------------------------
+Résumé des statistiques pour Kevin Fiala (LAK):
+{
+  "gamesPlayed": 7,
+  "goals": 4,
+  "assists": 1,
+  "points": 5,
+  "plusMinus": -4,
+  "penaltyMinutes": 6,
+  "timeOnIcePerGame": "1041.29",
+  "shootingPercentage": "16.67%",
+  "gameWinningGoals": 0,
+  "powerPlayGoals": 2,
+  "powerPlayPoints": 3,
+  "faceoffWinPercentage": "28.57%"
+}
+-----------------------------------
+Résumé des statistiques pour Philipp Kurashev (CHI):
+{
+  "gamesPlayed": 6,
+  "goals": 1,
+  "assists": 0,
+  "points": 1,
+  "plusMinus": -6,
+  "penaltyMinutes": 4,
+  "timeOnIcePerGame": "953.67",
+  "shootingPercentage": "12.50%",
+  "gameWinningGoals": 0,
+  "powerPlayGoals": 0,
+  "powerPlayPoints": 0,
+  "faceoffWinPercentage": "51.72%"
+}
+-----------------------------------
+Résumé des statistiques pour Pius Suter (VAN):
+{
+  "gamesPlayed": 5,
+  "goals": 1,
+  "assists": 1,
+  "points": 2,
+  "plusMinus": -1,
+  "penaltyMinutes": 0,
+  "timeOnIcePerGame": "779.00",
+  "shootingPercentage": "20.00%",
+  "gameWinningGoals": 0,
+  "powerPlayGoals": 0,
+  "powerPlayPoints": 0,
+  "faceoffWinPercentage": "41.67%"
+}
+-----------------------------------
+Résumé des statistiques pour Nico Hischier (NJD):
+{
+  "gamesPlayed": 9,
+  "goals": 5,
+  "assists": 3,
+  "points": 8,
+  "plusMinus": 1,
+  "penaltyMinutes": 0,
+  "timeOnIcePerGame": "1208.56",
+  "shootingPercentage": "17.86%",
+  "gameWinningGoals": 0,
+  "powerPlayGoals": 2,
+  "powerPlayPoints": 3,
+  "faceoffWinPercentage": "58.82%"
+}
+-----------------------------------

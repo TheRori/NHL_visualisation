@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NHL Swiss Players - Interactive Visualizations</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h1>Statistiques des joueurs suisses</h1>
+
+<!-- Choix des variables pour le bar chart empilé -->
+<section>
+    <h2>Barres Empilées Interactives</h2>
+    <div id="controls">
+        <label for="segment1">Choisir le premier segment :</label>
+        <select id="segment1">
+            <option value="goals">Goals</option>
+            <option value="assists">Assists</option>
+            <option value="points">Points</option>
+            <option value="penaltyMinutes">Penalty Minutes</option>
+        </select>
+
+        <label for="segment2">Choisir le second segment :</label>
+        <select id="segment2">
+            <option value="assists">Assists</option>
+            <option value="goals">Goals</option>
+            <option value="points">Points</option>
+            <option value="penaltyMinutes">Penalty Minutes</option>
+        </select>
+    </div>
+    <div id="stacked-bar-chart"></div>
+</section>
+
+<!-- Scatter plot pour la comparaison entre minutes de jeu et points -->
+<section>
+    <h2>Comparaison entre Minutes de Jeu et Points</h2>
+    <div id="scatter-plot"></div>
+</section>
+
+<section>
+    <h2>Comparaison entre Minutes de Jeu, Points et Taille des Bulles selon les Buts</h2>
+    <div id="bubble-plot"></div>
+</section>
+
+<!-- Tooltip commun pour les deux graphiques -->
+<div id="tooltip" style="position: absolute; visibility: hidden; background-color: white; padding: 5px; border: 1px solid #ccc; border-radius: 4px;"></div>
+
+<!-- Inclusion des bibliothèques et scripts JavaScript -->
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="scripts/main.js"></script>
+</body>
+</html>

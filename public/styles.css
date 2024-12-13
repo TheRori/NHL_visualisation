@@ -1,0 +1,18 @@
+/* public/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#chart {
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+.x-axis text {
+    font-size: 12px;
+}
